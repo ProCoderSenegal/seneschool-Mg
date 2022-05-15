@@ -1,0 +1,630 @@
+.logoletter2{
+    color: red;
+    font-weight: bold;
+}
+.logosite{
+    padding-left: 50px ;
+    padding-top: 7px;
+}
+.logoletter1{
+    letter-spacing: 2px;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(10, 10, 77);
+}
+.menunav{
+    display: flex;
+    list-style-type: none;
+    margin-top: 47px;
+}
+.textmenu{
+    padding: 15px 70px;
+    text-decoration: none;
+    font-size: 15px;
+    color: red;
+    border-style: solid;
+    border-width: 1px;
+    border-color: red;
+}
+.head{
+    display: flex;
+    background-color: rgb(250, 250, 250);
+    position: relative;
+   
+}
+.navbar{
+    margin-right: 10px;
+}
+@media screen and (max-width:1320px){
+    .textmenu{
+        padding: 15px 65px;
+    }
+}
+@media screen and (max-width:1255px){
+    .textmenu{
+        padding: 15px 60px;
+    }
+}
+@media screen and (max-width:1297px){
+    .textmenu{
+        padding: 15px 55px;
+    }
+}
+@media screen and (max-width:1135px){
+    .textmenu{
+        padding: 15px 45px;
+    }
+}
+@media screen and (max-width:1075px){
+    .textmenu{
+        padding: 15px 40px;
+    }
+}
+@media screen and (max-width:1015px){
+    .textmenu{
+        padding: 15px 35px;
+    }
+}
+@media screen and (max-width:955px){
+    .textmenu{
+        padding: 15px 15px;
+    }
+}
+@media screen and (max-width:895px){
+    .textmenu{
+        padding: 15px 10px;
+    }
+}
+@media screen and (max-width:835px){
+    .textmenu{
+        padding: 15px 5px;
+    }
+}
+@media screen and (max-width:825px){
+    .head{
+        display: inline-block;
+        width: 100%;
+    }
+    .logoletter1{
+        text-align: center;
+    }
+    .menunav{
+        justify-content: center;
+    }
+    .textmenu{
+        padding: 15px 30px;
+    }
+    .head{
+        padding-bottom: 20px;
+    }
+}
+@media screen and (max-width:805px){
+    .head{
+        display: inline-block;
+        width: 100%;
+    }
+    .logoletter1{
+        text-align: center;
+    }
+    .menunav{
+        justify-content: center;
+    }
+    .textmenu{
+        padding: 15px 25px;
+    }
+    .head{
+        padding-bottom: 20px;
+    }
+}
+@media screen and (max-width:740px){
+    .head{
+        display: inline-block;
+        width: 100%;
+    }
+    .logoletter1{
+        text-align: center;
+    }
+    .menunav{
+        justify-content: center;
+    }
+    .textmenu{
+        padding: 15px 20px;
+    }
+    .head{
+        padding-bottom: 20px;
+    }
+}
+@media screen and (max-width:680px){
+    .head{
+        display: inline-block;
+        width: 100%;
+    }
+    .logoletter1{
+        text-align: center;
+    }
+    .menunav{
+        justify-content: center;
+    }
+    .textmenu{
+        padding: 15px 17px;
+    }
+    .head{
+        padding-bottom: 20px;
+    }
+}
+@media screen and (max-width:675px){
+    .head{
+        display: inline-block;
+        width: 100%;
+    }
+    .logoletter1{
+        text-align: center;
+    }
+    .menunav{
+        justify-content: center;
+    }
+    .textmenu{
+        padding: 15px 14px;
+    }
+    .head{
+        padding-bottom: 20px;
+    }
+}
+@media screen and (max-width:635px){
+    .head{
+        display: inline-block;
+        width: 100%;
+    }
+    .logoletter1{
+        text-align: center;
+    }
+    .menunav{
+        justify-content: center;
+    }
+    .textmenu{
+        padding: 15px 10px;
+    }
+    .head{
+        padding-bottom: 20px;
+    }
+}
+@media screen and (max-width:610px){
+    .head{
+        display: inline-block;
+        width: 100%;
+    }
+    .logoletter1{
+        text-align: center;
+    }
+    .menunav{
+        justify-content: center;
+    }
+    .textmenu{
+        padding: 15px 7px;
+    }
+    .head{
+        padding-bottom: 20px;
+    }
+}
+@media screen and (max-width:535px){
+    .head{
+        display: inline-block;
+        width: 100%;
+    }
+    .logoletter1{
+        text-align: center;
+    }
+    .menunav{
+        justify-content: center;
+    }
+    .textmenu{
+        padding: 15px 5px;
+    }
+    .head{
+        padding-bottom: 20px;
+    }
+}
+
+@media screen and (max-width:503px){
+    .head{
+        display: inline-block;
+        width: 100%;
+    }
+    .logoletter1{
+        text-align: center;
+    }
+    .menunav{
+        justify-content: center;
+    }
+    .textmenu{
+        padding: 15px 4px;
+    }
+    .head{
+        padding-bottom: 20px;
+    }
+}
+@media screen and (max-width:375px){
+    .head{
+        display: inline-block;
+        width: 100%;
+    }
+    .logoletter1{
+        text-align: center;
+    }
+    .menunav{
+        justify-content: center;
+        margin-top: 10px;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        flex-wrap: wrap;
+        height: 20vh;
+    }
+    .textmenu{
+        padding: 15px 3px;
+    }
+    .head{
+        padding-bottom: 20px;
+
+    }
+    
+}
+@media screen and (max-width:414px){
+    .head{
+        display: inline-block;
+        width: 100%;
+    }
+    .logoletter1{
+        text-align: center;
+    }
+    .menunav{
+        justify-content: center;
+        margin-top: 10px;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        flex-wrap: wrap;
+        height: 15vh;
+    }
+    .textmenu{
+        padding: 15px 3px;
+    }
+}
+@media screen and (max-width:280px){
+    .head{
+        display: inline-block;
+        width: 100%;
+    }
+    .logoletter1{
+        text-align: center;
+    }
+    .menunav{
+        justify-content: center;
+        margin-top: 10px;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        flex-wrap: wrap;
+        height: 25vh;
+    }
+    .textmenu{
+        padding: 15px 3px;
+    }
+}
+.navbar:hover a{
+    font-size: 15.3px;
+    border-width: 2px;
+    border-color: rgb(13, 13, 95);
+    color: rgb(14, 14, 77);
+    font-weight: 600;
+
+}
+body{
+    background-image: url(../img/g4.jpg);
+    background-size: cover;
+}
+.acc1{
+    color: red;
+}
+.limite1{
+    margin-top: 2cm;
+    text-align: center;
+}
+.acc{
+    font-size: 80px;
+    color: rgb(19, 19, 97);
+    padding-top: 60px;
+}
+.acceuil{
+    height: 100%;
+    padding-bottom: 2cm;
+}
+.exp{
+    text-align: center;
+    font-size: 30px;
+}
+.bodydown{
+    background-color: white;
+    width: 800px;
+}
+.levels{
+    background-color: white;
+}
+.bodycontent{
+    background-color: white;
+}
+.exp{
+    color: rgb(8, 8, 63);
+    font-weight: 600;
+}
+.wel{
+    font-size: 30px;
+    color: rgb(8, 8, 63);
+}
+.letter3{
+    color: red;
+}
+.title2{
+    color: rgb(10, 10, 95);
+    font-size: 70px;
+    text-align: center;
+    padding-top: 30px;
+}
+.paragraphe{
+    color: rgb(8, 8, 63);
+    font-size: 30px;
+    text-align: center;
+    font-weight: 500;
+}
+.grade{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.classes{
+    width: 400px;
+    margin-top: 50px;
+    margin-right: 50px;
+    border: 20px solid rgb(250, 249, 249);
+    box-shadow: 25px 15px 30px rgba(0, 0, 0, 0.8);
+    background-color: rgb(99, 99, 252);
+    
+}
+.classes10{
+    width: 400px;
+    margin-top: 50px;
+    margin-right: 50px;
+    border: 20px solid rgb(250, 249, 249);
+    box-shadow: 25px 15px 30px rgba(0, 0, 0, 0.8);
+    background-color: rgb(99, 99, 252);
+    height: 400px;
+}
+.classes9{
+    width: 400px;
+    margin-top: 50px;
+    margin-right: 50px;
+    border: 20px solid rgb(250, 249, 249);
+    box-shadow: 25px 15px 30px rgba(0, 0, 0, 0.8);
+    background-color: rgb(99, 99, 252);
+    height: 400px;
+}
+.classes8{
+    width: 400px;
+    margin-top: 50px;
+    margin-right: 50px;
+    border: 20px solid rgb(250, 249, 249);
+    box-shadow: 25px 15px 30px rgba(0, 0, 0, 0.8);
+    background-color: rgb(99, 99, 252);
+    height: 400px;
+}
+.classes7{
+    width: 400px;
+    margin-top: 50px;
+    margin-right: 50px;
+    border: 20px solid rgb(250, 249, 249);
+    box-shadow: 25px 15px 30px rgba(0, 0, 0, 0.8);
+    background-color: rgb(99, 99, 252);
+    height: 400px;
+}
+.classes6{
+    width: 400px;
+    margin-top: 50px;
+    margin-right: 50px;
+    border: 20px solid rgb(250, 249, 249);
+    box-shadow: 25px 15px 30px rgba(0, 0, 0, 0.8);
+    background-color: rgb(99, 99, 252);
+    height: 400px;
+}
+.classes5{
+    width: 400px;
+    margin-top: 50px;
+    margin-right: 50px;
+    border: 20px solid rgb(250, 249, 249);
+    box-shadow: 25px 15px 30px rgba(0, 0, 0, 0.8);
+    background-color: rgb(99, 99, 252);
+    height: 400px;
+}
+.classes4{
+    width: 400px;
+    margin-top: 50px;
+    margin-right: 50px;
+    border: 20px solid rgb(250, 249, 249);
+    box-shadow: 25px 15px 30px rgba(0, 0, 0, 0.8);
+    background-color: rgb(99, 99, 252);
+    height: 400px;
+}
+.classes3{
+    width: 400px;
+    margin-top: 50px;
+    margin-right: 50px;
+    border: 20px solid rgb(250, 249, 249);
+    box-shadow: 25px 15px 30px rgba(0, 0, 0, 0.8);
+    background-color: rgb(99, 99, 252);
+    height: 400px;
+}
+.classes2{
+    width: 400px;
+    margin-top: 50px;
+    margin-right: 50px;
+    border: 20px solid rgb(250, 249, 249);
+    box-shadow: 25px 15px 30px rgba(0, 0, 0, 0.8);
+    background-color: rgb(99, 99, 252);
+    height: 400px;
+}
+.classes1{
+    width: 400px;
+    margin-top: 50px;
+    margin-right: 50px;
+    border: 20px solid rgb(250, 249, 249);
+    box-shadow: 25px 15px 30px rgba(0, 0, 0, 0.8);
+    background-color: rgb(99, 99, 252);
+    height: 400px;
+}
+.img1{
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+.img1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.classes10:hover {
+    border: 21px solid rgba(207, 203, 203, 0.644);
+}
+.classes9:hover {
+    border: 21px solid rgba(207, 203, 203, 0.644);
+}
+.classes8:hover {
+    border: 21px solid rgba(207, 203, 203, 0.644);
+}
+.classes7:hover {
+    border: 21px solid rgba(207, 203, 203, 0.644);
+}
+.classes6:hover {
+    border: 21px solid rgba(207, 203, 203, 0.644);
+}
+.classes5:hover {
+    border: 21px solid rgba(207, 203, 203, 0.644);
+}
+.classes4:hover {
+    border: 21px solid rgba(207, 203, 203, 0.644);
+}
+.classes3:hover {
+    border: 21px solid rgba(207, 203, 203, 0.644);
+}
+.classes2:hover {
+    border: 21px solid rgba(207, 203, 203, 0.644);
+}
+.classes1:hover {
+    border: 21px solid rgba(207, 203, 203, 0.644);
+}
+.letter4{
+    color: red;
+
+}
+.titlematiere{
+    letter-spacing: 2px;
+    font-size: 70px;
+    font-weight: bold;
+    color: rgb(10, 10, 77);
+    text-align: center;
+    padding-top: 30px;
+}
+.mhr{
+    font-size: 30px;
+}
+.levels{
+    background-color: white;
+    margin-bottom: 30px;
+    padding-bottom: 40px;
+}
+.matiere{
+    background: white ;
+    font-weight: 0;
+}
+.mhr{
+    color: rgb(8, 8, 63);
+    font-size: 30px;
+    text-align: center;
+    font-weight: 500;
+}
+.grades{
+    text-decoration: none;
+    width: 100%;
+    background-color: rgb(61, 105, 224);
+    color: white;
+}
+.propos{
+    background-color: white;
+    margin-top: 200px;
+    padding-bottom: 50px;
+    padding-top: 5px;
+}
+.paragraphe2{
+    color: rgb(8, 8, 63);
+    font-size: 30px;
+    text-align: center;
+    font-weight: 500;
+    margin-top: 60px;
+}
+.title1{
+    background-color: brown;
+    text-align: center;
+    justify-content: center;
+    font-size: 50px;
+}
+.textlink{  
+    text-decoration: none;
+    color: white;
+  }
+.classes10{
+    background-image: url(../img/14bf23dbd9404fd387b3a152e8ca582a.png);
+    background-size: cover;
+}
+.classes9{
+    background-image: url(../img/14bf23dbd9404fd387b3a152e8ca582a\ \(1\).png);
+    background-size: cover;
+}
+.classes8{
+    background-image: url(../img/14bf23dbd9404fd387b3a152e8ca582a\ \(2\).png);
+    background-size: cover;
+}
+.classes7{
+    background-image: url(../img/14bf23dbd9404fd387b3a152e8ca582a\ \(3\).png);
+    background-size: cover;
+}
+.classes6{
+    background-image: url(../img/14bf23dbd9404fd387b3a152e8ca582a\ \(4\).png);
+    background-size: cover;
+}
+.classes5{
+    background-image: url(../img/14bf23dbd9404fd387b3a152e8ca582a\ \(5\).png);
+    background-size: cover;
+}
+.classes4{
+    background-image: url(../img/14bf23dbd9404fd387b3a152e8ca582a\ \(6\).png);
+    background-size: cover;
+}
+.classes3{
+    background-image: url(../img/14bf23dbd9404fd387b3a152e8ca582a\ \(7\).png);
+    background-size: cover;
+}
+.classes2{
+    background-image: url(../img/14bf23dbd9404fd387b3a152e8ca582a\ \(8\).png);
+    background-size: cover;
+}
+.classes1{
+    background-image: url(../img/14bf23dbd9404fd387b3a152e8ca582a\ \(9\).png);
+    background-size: cover;
+}
+.link{
+    color: rgba(0, 255, 42, 0);
+    padding-left: 185px;
+    padding-right: 180px;
+    padding-bottom: 350px;
+}
+.grade{
+    display: flex;
+}
